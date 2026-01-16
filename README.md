@@ -53,13 +53,6 @@ KPI definitions: [`sql/kpi_views.sql`](sql/kpi_views.sql)
 ## SAP Analytics Cloud Dashboards
 Dashboards were built in **SAC** using imported KPI datasets.
 
-### Preview
-> After you upload your SAC images, replace the filenames below to match your files exactly.
-
-![Executive Overview](sac/dashboards/executive_overview.png)
-![Revenue by Store](sac/dashboards/revenue_by_store.png)
-![Daily Revenue Trend](sac/dashboards/daily_revenue_trend.png)
-
 ---
 
 ## How to run (rebuild from scratch)
