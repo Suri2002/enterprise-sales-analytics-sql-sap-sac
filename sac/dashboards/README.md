@@ -13,3 +13,4 @@ using KPI views generated from SQL Server.
 - Imported into SAC as models (CSV-based import)
 
 These dashboards demonstrate enterprise-style BI reporting using SAP SAC.
+[Enterprises_Sales_Analytics.pdf](https://github.com/user-attachments/files/24661466/Enterprises_Sales_Analytics.pdf)
