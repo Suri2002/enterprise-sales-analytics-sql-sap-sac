@@ -51,7 +51,7 @@ KPI definitions: [`sql/kpi_views.sql`](sql/kpi_views.sql)
 ---
 
 ## SAP Analytics Cloud Dashboards
-Dashboards were built in **SAC** using imported KPI datasets.
+Dashboards were built in **SAC** using imported KPI datasets. ['sac/dashboards'](sac/dashboards)
 
 ---
 
